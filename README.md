@@ -1,3 +1,6 @@
+![Alt text](https://github.com/xdityagr/Project-AirDex/blob/main/banner_airdex.png?raw=true "Banner Image")
+
+
 # AirDex
 
 AirDex is a beautiful and functional weather application that provides real-time weather updates, including temperature, humidity, pressure, and more. The app uses data from the OpenWeatherMap API and offers a user-friendly interface with a dynamic background that changes based on the time of day.

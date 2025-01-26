@@ -15,7 +15,7 @@ AirDex is a beautiful and functional weather application that provides real-time
 ## Installation
 
 1. **Download the Executable:**
-   - Download `AirDex Home Edition.exe` from the [releases page](#).
+   - Download `AirDex Home Edition.exe` from the [releases page](https://github.com/xdityagr/Project-AirDex/releases/tag/AirDexBuild).
 
 2. **Run the Application:**
    - Double-click `AirDex Home Edition.exe` to start the application.
